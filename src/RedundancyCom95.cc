@@ -27,6 +27,7 @@
 #include <cstring>
 #include <algorithm>
 #include <functional>
+#include <stdexcept>
 #include <Sequence/SeqEnums.hpp>
 #include <Sequence/Translate.hpp>
 #include <Sequence/RedundancyCom95.hpp>

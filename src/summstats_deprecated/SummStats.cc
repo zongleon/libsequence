@@ -4,6 +4,7 @@
 #include <numeric>
 #include <cctype>
 #include <stdexcept>
+#include <limits>
 using namespace std;
 
 namespace Sequence

@@ -29,6 +29,7 @@
 #include <Sequence/Recombination.hpp>
 #include <Sequence/stateCounter.hpp>
 #include <Sequence/SeqProperties.hpp>
+#include <stdexcept>
 
 using std::pow;
 using std::vector;

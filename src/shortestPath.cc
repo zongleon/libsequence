@@ -29,6 +29,7 @@
 #include <Sequence/SeqAlphabets.hpp>
 #include <Sequence/Comparisons.hpp>
 #include <algorithm>
+#include <stdexcept>
 
 namespace Sequence
 {
